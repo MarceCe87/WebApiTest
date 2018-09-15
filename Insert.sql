@@ -7,9 +7,9 @@ INSERT INTO [dbo].[Users]
            ,[Email]
            ,[Password])
      VALUES(
-          'John',
-		  'Doe',
-		  'jdoe@gmail.com',
+          'Mark',
+		  'wahlberg',
+		  'mwahlberg@gmail.com',
 		  '1234')
 
 INSERT INTO [dbo].[Users]
@@ -18,9 +18,9 @@ INSERT INTO [dbo].[Users]
            ,[Email]
            ,[Password])
      VALUES(
-          'Michelle',
-		  'Williams',
-		  'mwill@gmail.com',
+          'Will',
+		  'Ferrel',
+		  'wferrel@gmail.com',
 		  'under90')
 
 INSERT INTO [dbo].[Users]
@@ -29,9 +29,9 @@ INSERT INTO [dbo].[Users]
            ,[Email]
            ,[Password])
      VALUES(
-          'Mark',
-		  'Donovan',
-		  'markd@gmail.com',
+          'Dwayne',
+		  'Johnson',
+		  'djohnson@gmail.com',
 		  'lowfi')
 
 INSERT INTO [dbo].[Users]
@@ -40,9 +40,9 @@ INSERT INTO [dbo].[Users]
            ,[Email]
            ,[Password])
      VALUES(
-          'Jennifer',
-		  'Dow',
-		  'jendow@gmail.com',
+          'Mila',
+		  'Kunis',
+		  'mkunis@gmail.com',
 		  'music80')
 GO
 
