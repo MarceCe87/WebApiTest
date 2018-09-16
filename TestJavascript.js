@@ -60,7 +60,7 @@ Sample HTML file:
 <input type="button" onclick="removecolor()" value="Select and Remove">
 </form></body></html>*/
  
- function RemoveSelectItem() {
+ function removecolor() {
     var select = document.getElementById('colorSelect');
 
 	for (i=0;i<select.length;  i++) {
@@ -85,7 +85,7 @@ Sample HTML file:
 <input type="button" onclick="insert_Row()" value="Insert row"> 
 </body></html> */
 
- function AddTableRow() {
+ function insert_Row() {
 	 
 	var tableRef = document.getElementById('sampleTable').getElementsByTagName('tbody')[0];
 	var newRow   = tableRef.insertRow(tableRef.rows.length);
